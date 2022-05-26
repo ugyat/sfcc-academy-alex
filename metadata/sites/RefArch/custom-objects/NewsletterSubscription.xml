@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<custom-objects xmlns="http://www.demandware.com/xml/impex/customobject/2006-10-31">
+    <custom-object type-id="NewsletterSubscription" object-id="email last">
+        <object-attribute attribute-id="firstName">first last</object-attribute>
+        <object-attribute attribute-id="lastName">last last</object-attribute>
+    </custom-object>
+
+    <custom-object type-id="NewsletterSubscription" object-id="email main">
+        <object-attribute attribute-id="firstName">first main</object-attribute>
+        <object-attribute attribute-id="lastName">last main</object-attribute>
+    </custom-object>
+
+</custom-objects>
